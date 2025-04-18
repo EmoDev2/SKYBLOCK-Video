@@ -17,12 +17,12 @@ body {
 
 }
 .dowloadBOX {
-    
+    box-shadow: black 0.5px 0.5px 0.5px;
     text-align: center;
     margin: 100px;
     padding: 50px;
     border: 1px solid #ccc;
-    border-radius: 3px;
+    border-radius: 10px;
     background-color: #8aaedd;
 
 }
